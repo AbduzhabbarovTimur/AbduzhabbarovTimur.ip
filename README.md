@@ -1,1 +1,1 @@
-# AbduzhabbarovTimur.ip
+# AbduzhabbarovTimur.github.ip
