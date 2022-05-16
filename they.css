@@ -112,6 +112,26 @@
     z-index: 3;
   }
 
+footer{
+      background: #6a5acd;
+      height: 130px;
+  }
+
+  nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+  nav li {
+      display: inline-block;
+      margin-bottom: 50px;
+  }
+
+  footer.transition{
+      margin-top: 50px;
+  }
+
   .topnav .icon{
       display: none;
   }
